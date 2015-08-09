@@ -1,0 +1,17 @@
+@@ All train (and other transportation) hubs and connecting stations. As always, room names, dbrefs, exits, and attributes.
+
+@@ Grand Union Station (#146)
+@desc #146=This bustling station is the heart of all major public transit in Atlas City. Gleaming red-and-white monorail trains are constantly zipping in and out of the station, dropping off passengers and picking up others before zipping off, again.%r%rThe rails themselves gleam no matter what time of day it is--sunlight in the day, or neon lights at night. They stretch like metal bands, stretching over the city like a spiderweb. Here and there, the strands descend down into the various districts full of gleaming ceratanium buildings. You can get anywhere from here, but it may take a bit of figuring out the transit systems in each district from here.%r%rThe platforms themselves are very solid, sturdily built out of ceratanium, the hybridized metal shaped and colored to look like wood. While this central hub isn't built over any specific district, passengers can take a flight of stairs down to a rest area, where they can find full-service vending machines, several different fast food places, and enough benches and seats to satisfy all but the rush hour crowds.
+@@ Exits: Downstairs (#142)
+@@ Downstairs
+@succ #142=You head downstairs. Time to chow down!
+@osucc #142=heads downstairs to the food hub.
+@odrop #142=comes down the stairs from the main platforms, above.
+
+@@ Grand Union Food Hub (#143)
+@desc #143=This area is wide open. Several vending machines stand against one wall, and several fast-food vendors have counters set into another wall. Everywhere you look, there are tables and chairs, booths, and padded benches on which to relax. Since this area is open 24 hours (even if the vendors aren't), there are almost always crowds of people in this area. It seems to be a popular gathering spot.
+@@ Exits: Upstairs (#141)
+@@ Upstairs
+@succ #141=You head upstairs to get back to the platforms. Going somewhere?
+@osucc #141=heads up the stairs back to the platform! Gotta catch that train!
+@odrop #141=comes up from the food hub, below.
