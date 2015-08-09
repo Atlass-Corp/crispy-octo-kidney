@@ -1,0 +1,70 @@
+@@ Rooms found in the Chargen zone. Included are the name, dbref (for @tel use; update if room dbref has to change), @desc, and the exits. Make sure all rooms are @chown/preserve'd to #3.
+
+@@ Awakening (#135)
+@desc #135=Blackness. You don't recall what happened, how you got here. You don't remember where 'here' is. You don't feel quite right. Something is very, very wrong, and you feel reasonably certain that something is wrong with your head... A splitting pain runs through it. ...or does it? Is it actually pain, or are you programmed to feel it? What are you? A human, with the ability to splice your body or add cybernetics? A replicant, a cybernetic organism? An avatar, a digital entity given a physical form by extraordinary means? Perhaps you're a homunculus, a sentient and inhuman robot? Or are you a riph, that most inhuman and alien of creatures?%r%rDo you even remember what those races are? Maybe you should take a look at them, and see if you remember what you are. Go ahead and take your time. When you're ready, tell me what you are.
+@@ Exits: Replicant (#131), Avatar (#129), Human (#133), Homunculus (#121), Riph (#119)
+@@ Replicant
+@succ #131=That's right! You're a replicant.
+@osucc #131=realizes they're a replicant and slips off to the next stage of awareness.
+@odrop #131=comes to the realization that they're a replicant, and slips into place near you...
+@@ Avatar
+@succ #129=That's right! You're an Avatar.
+@osucc #129=remembers they're an avatar and slips into a higher state of consciousness.
+@odrop #129=slips into this level of consciousness after remembering they're an avatar.
+@@ Human
+@succ #133=That's right. You're a human!
+@osucc #133=has figured out that they are, in fact, a human.
+@odrop #133=begins to wake up alongside you.
+@@ Homunculus
+@succ #121=That's right! You're a Homunculus.
+@osucc #121=remembers they're a Homunculus and slips into a higher state of consciousness.
+@odrop #121=slips into this level of consciousness after remembering they're a Homunculus.
+@@ Riph
+@succ #119=That's right! You're a Riph.
+@osucc #119=remembers that they're a Riph, and rises to a new level of consciousness.
+@odrop #119=arrives at this level of consciousness after recalling that they're a Riph.
+
+@@ Replicant Creation (#132)
+@desc #132=You remember now, you're a replicant... You must've taken a pretty hard hit to the head to forget THAT fact! Your body may be entirely synthetic, but the pain you feel is pretty unpleasant, synthetic or not! It throbs in your head like a bad hangover. And then you hear a voice, calling to you through the darkness. "Hey... Hey, hey, are you alright? You took a pretty nasty hit to the head, there. Do you remember your name?"%r%rWell, do you? Use '&alias me=<name>' if you want to set a nickname. Type 'speak' when you're done to tell them your name...
+@@ Exits: speak (#114) (set dark)
+@succ #114=You tell them your name...
+@osucc #114=tells the voice their name.
+@odrop #114=tells the voice their name.
+
+@@ Avatar Creation (#130)
+@desc #130=The pain in your head may be entirely synthetic, but that doesn't make it hurt any less. What happened? You're struggling to piece that information together when you hear a voice calling out to you through the darkness. "Ow, hey, you took a pretty big hit to the head, there! Better make sure nothing's wrong. Do you remember your name?"%r%r...Well, do you? Use '&alias me=<name>' if you would like to set a nickname for yourself. Otherwise, use 'speak' to tell the voice your name...
+@@ Exits: speak (#112)
+@succ #112=You tell them your name...
+@osucc #112=tells the voice their name.
+@odrop #112=tells the voice their name.
+
+@@ Human Creation (#134)
+@desc #134=And now that you've figured out that you are human, that this is your head that hurts, and it is, in fact, pain, you hear a voice coming to you through the darkness and the haze. "Hey, hey... Are you alright? You took a pretty nasty hit to the head. Do you remember what your name is?"%r%r...Well, do you? Use '&alias me=<name>' if you would like to set a nickname for yourself. Once you're done, type 'speak' to tell them your name.
+@@ Exits: speak (#110)
+@succ #110=You tell them your name...
+@osucc #110=tells the voice their name.
+@odrop #110=tells the voice their name.
+
+@@ Homunculus Creation (#122)
+@desc #122=You're a homunculus, an inhuman machine gifted with a powerful artificial intelligence. So that's good news and bad news. The good news is, that's not your head, and that's not real pain you're feeling! The bad news is, whatever memory palette your consciousness resides in was recently battered pretty hard, and your systems are still trying to come online. This may require repairs when you're done. And then, before your visual sensors have fully come online, your audio sensors pick up a voice nearby. "Hey! You alright? Never seen a robot take a hit like that and still be functional. All your base systems in order? Do you remember your name?"%r%r...Well, can you access that data? Use '&alias me=<name>' if you would like to set a nickname for yourself. Use 'speak' when you're done, to tell them your name.
+@@ Exits: speak (#108)
+@succ #108=You tell them your name...
+@osucc #108=tells the voice their name.
+@odrop #108=tells the voice their name.
+
+@@ Riph Creation (#120)
+@desc #120=As a Riph, you don't technically have a head...and that means that's your brain itself throbbing so painfully. Something happened that directly affected it--but what? As you're trying to remember, a fluting, lilting voice calls out to you through your mental haze. "Sorry! We thought everyone was clear of that blast. You must've been hurt by the shockwaves. Are you alright? Do you remember your name?"%r%r...Well, do you? Use '&alias me=<name>' if you would like to set a nickname for yourself. Use 'speak' when you're done, to tell them your name.
+@@ Exits: speak (#106)
+@succ #106=You tell them your name...
+@osucc #106=tells the voice their name.
+@odrop #106=tells the voice their name.
+
+@@ Jammin' wit' da Riphs (#107)
+
+@@ Homunculus with Electric Sheep (#109)
+
+@@ Replicant Memories (#116)
+
+@@ Avatar Dreams (#113)
+
+@@ Human Thoughts (#111)
