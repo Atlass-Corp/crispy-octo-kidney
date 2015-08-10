@@ -1,4 +1,5 @@
-@@ To do list
+@@ To-Do List
 
-@@ Catalogue the vast majority of chargen in the repo
 @@ Figure out what the fuck happened to monikers and color
+@@ Improve +finger: intended changes including a short description about the character. ... anything else? Fuck, I don't remmeber now.
+@@ Begin figuring out how we can work the skills system. It's a fairly important section of stuff.
