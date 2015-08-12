@@ -6,6 +6,6 @@
 
 &error-function #147=<ERROR> [randword(ufun(#147/error-list),|)]
 
-&error-list #147=We're in bat country!|WOLOLO!|heheheheheHEHEhehehe~|SOUPMOTHER WEEDMISTRESS|I don't know how to Dennis.|I'm sorry Dave, I still can't do that.|I AM THE TABLE!|Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn|"I made this error message and all I got was this stinking recognition" ~anonymous|Sure. And I'm Lofwyr, King of Dragons.|Do you have any idea what you're doing? Huh? DO YOU?!! Do you even FATHOM the power you wield in those butterfingers of yours?!
+&error-list #147=We're in bat country!|WOLOLO!|heheheheheHEHEhehehe~|SOUPMOTHER WEEDMISTRESS|I don't know how to Dennis.|I'm sorry Dave, I still can't do that.|I AM THE TABLE!|Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn|"I made this error message and all I got was this stinking recognition" ~anonymous|Sure. And I'm Lofwyr, King of Dragons.|Do you have any idea what you're doing? Huh? DO YOU?!! Do you even FATHOM the power you wield in those butterfingers of yours?!|My god, what have you done?!|a/s/l?|How do I door?|You have entered Derp Mode. Herp? y/n|Um... %n? What's a gravity?|That's sad. That's like a Riph rolling over and using a toilet bowl for a helmet sad. They call him Poopbutt.
 
 &error-test #147=$+fucktits:@pemit %#=ufun(#147/error-function)
