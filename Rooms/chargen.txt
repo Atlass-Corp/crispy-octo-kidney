@@ -60,11 +60,16 @@
 @odrop #106=tells the voice their name.
 
 @@ Jammin' wit' da Riphs (#107)
+@desc #107="Oh, good. Your shell seems to be a little out of sorts... Maybe I can help you out. Uhm... How old are you? And are you trying to imitate a male? A female? ...something else?"%r%rUse '&age me=<age>' to tell them how old you are, and use '&gender me=<gender>' to tell them what your gender is. Since Riphs don't have a 'physical' gender, this is more represented by the way they present themselves. And, of course, they're not confined to just being male or female.%r%rOnce you've told them your gender and age, use 'ready' to start waking up.
 
 @@ Homunculus with Electric Sheep (#109)
+@desc #109="Well, it seems like your memory cores are still functional. Listen, your chassis got pretty banged up... I'm sure we can get you fixed up, but it might be easier if you could tell us a few things. How long ago were you constructed? Were you designed with a specific gender in mind?"%r%rOf course, you're an inhuman creation. Many Homunculi don't have an identifiable 'gender', but all the same, set it with '&gender me=<gender>', even if you make it 'undefined' or 'none'. Tell them your age, too, with '&age me=<age>', to give them an idea of your construction date.%r%rOnce you've given them the information they need to pound your chassis out right, use 'ready' to finish booting up.
 
 @@ Replicant Memories (#116)
+@desc #116="Well, at least your memory cores seem to be working, so your brain-chips are working right. Listen, just to make sure, can you tell me what your age is? And...this may seem silly to you, but just making sure, are you a guy or a girl?"%r%rDespite being artificial cybernetic life-forms, Replicants do, in fact, have physical genders. Tell them what it is with '&gender me=<gender>'. Though, of course, some are without gender, and a few might be both! And again, even though they're artificial, they are born in an organic sort of way. Use '&age me=<age>' to tell them how long it's been since you were born.%r%rWhen you're finished telling them your age and gender, use 'ready' to wake up a bit more.
 
 @@ Avatar Dreams (#113)
+@desc #113="Okay, good. Seems like your head's still in working order... Just to make sure, though, can you tell me how old you are? Or whether you're a guy or a gal?"%r%rEven though Avatars are purely synthetic, their bodies function exactly like organic bodies. Most are male or female, but a few may be both, or neither. Tell them what you are with '&gender me=<gender>', and tell them how old you are with '&age me=<age>'.%r%rOnce you're done, use 'ready' to wake up a bit more...
 
 @@ Human Thoughts (#111)
+@desc #111="Okay, good. You don't seem like you have a concussion, but do you remember how old you are? Can you tell me if you're a guy or a girl?"%r%rUse '&age me=<age>' to tell them your age, and use '&gender me=<gender>' to give them your gender. Most humans are male or female, some are trans, and a few are both or neither.%r%rOnce you're done with that, use 'ready' to wake up a bit more.

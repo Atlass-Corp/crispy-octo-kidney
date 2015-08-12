@@ -1,0 +1,4 @@
+@@ This file contains all the room names, descs, dbrefs, etc, for the Warrens. This is going to be intentionally confusing.
+
+@@ Warrens (#140)
+@desc #140=The stench is almost overpowering--rotten refuse, poor sewage and far too many unwashed bodies in a small area. It takes a while to get used to it, and it never truly goes away, but even the faintest of breezes brings some amount of welcome relief from the smell.%r%rNone of the buildings here are permanent, most of them being juryrigged together to create makeshift shelters from the elements.%r%rAll around, robots argue over power sources, humans and replicants squabble over the cost of food, and riphs run their infamous riphshaws through the streets, ferrying people from one part of the warrens to another for the cost of a song.
